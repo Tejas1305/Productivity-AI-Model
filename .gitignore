@@ -172,3 +172,16 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Virtual environments
+
+
+venv/
+.env/
+
+#Large Binary files
+*.dylib
+*.pt
+*.pkl
+*.h5
+
